@@ -11,6 +11,7 @@ namespace Gitta
         static void Main(string[] args)
         {
             Console.WriteLine("Gitta bror");
+            Console.WriteLine("Kolla den här shunon");
             Console.ReadLine();
         }
     }

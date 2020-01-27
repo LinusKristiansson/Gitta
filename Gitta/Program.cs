@@ -10,6 +10,8 @@ namespace Gitta
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Gitta bror");
+            Console.ReadLine();
         }
     }
 }
